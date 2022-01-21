@@ -11,7 +11,7 @@
 
 ### To get a local copy run the following steps:
 
-- Clone the repository with `git clone `
+- Clone the repository with `git clone https://github.com/Adewunmi97/hello-rails-react.git`
 - Open the folder with your code editor
 - Run `yarn install` to install all dependencies
 - Run `rails db:create`, `rails db:migrate` and `rails db:seed` to create and populate database with seed data.
@@ -29,7 +29,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/Adewunmi97/hello-rails-react/issues).
 
 ## Show your support
 
